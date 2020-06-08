@@ -1,0 +1,1 @@
+Minimal HTML static website template.
